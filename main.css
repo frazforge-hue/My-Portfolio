@@ -760,6 +760,13 @@ img{
         padding: var(--space-medium);
         text-align: center;
     }
+    #contact h1{
+        font-size: var(--font-lg);
+    }
+    #contact p{
+        font-size: var(--font-md);
+    }
 
 }
+
 
