@@ -696,7 +696,7 @@ img{
 
     #about-us h2,
     #about-us p{
-        font-size: var(--font-lg);
+        font-size: var(--font-md);
         padding: var(--space-small);
         margin: var(--space-small);
     }
@@ -762,3 +762,4 @@ img{
     }
 
 }
+
